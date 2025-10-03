@@ -129,10 +129,10 @@ section.light{
      color: aliceblue;
      padding: 20px;
 }
-.about p{
+.about h4{
     margin-top: 10px;
-
 }
+
 
 .about-content{
     margin: 0 20px;
@@ -148,9 +148,10 @@ section.light{
     color: aliceblue;
     padding: 20px;
 }
-.skill p{
+.skill h4{
     margin-top: 10px;
 }
+
 .skill-content{
      margin: 20px;
 
@@ -192,10 +193,10 @@ section.light{
 
 
 }
-.project p{
-      margin-top: 10px;
-    
+.project h4{
+    margin-top: 10px;
 }
+
 .project a h1{
     font-size: 18px;
     text-align: center;
@@ -242,9 +243,10 @@ section.light{
     padding-bottom: 20px;
     padding: 20px;
 }
-.certificate p{
-    margin-top: 10px;   
+.certificate h4{
+    margin-top: 10px;
 }
+
 
 .certificate a h1{
      font-size: 18px;
@@ -284,9 +286,10 @@ section.light{
     color: aliceblue;
     padding-bottom: 20px;
 }
-.more p{
+.more h4{
     margin-top: 10px;
 }
+
 .more-content{
     margin: 20px;
     display: grid;
@@ -335,9 +338,10 @@ section.light{
     margin-top: 10px;
     padding: 0 20px 10px;
 }
-.educ-box p{
-    margin-top: 3px;
+.educ-box h4{
+    margin-top: 10px;
 }
+
 .uni-date{
     display: flex;
     justify-content: space-between;
@@ -350,9 +354,10 @@ section.light{
     padding: 20px;
     color: aliceblue;
 }
-.SnM p{
+.SnM h4{
     margin-top: 10px;
 }
+
 
 .social-content{
     margin: 20px;
@@ -515,3 +520,4 @@ footer p{
     display:flex;
     justify-content: center;
 }
+
